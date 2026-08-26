@@ -36,12 +36,22 @@
     kilo: "Credit pass · 500+ models on Kilo",
     freebuff: "Fully free open-model coding agent",
     qoder: "Credit-based agentic coding suite",
-    cline: "Free OSS agent · BYOK inference",
+    cline: "ClinePass open-weight quota",
     devin: "Autonomous software engineer agent",
     commandcode: "Cheap credit buckets + model deals",
     verdent: "VS Code / desktop credits + Eco Mode",
     kiro: "AWS Kiro IDE credit tiers",
     nous: "Hermes Agent multi-model portal",
+    trae: "Cheap ByteDance IDE with SOLO agent",
+    ollama: "Free local models · paid GPU cloud",
+    iflytek: "China Spark + GLM/DeepSeek pack",
+    qianfan: "Baidu monthly tokens, no 5h window",
+    tencent: "Tencent Hy3 or multi-model tokens",
+    huawei: "Huawei CodeArts agent seats",
+    zed: "Fast editor · cheap hosted tokens",
+    factory: "Droid autonomous agent windows",
+    warp: "AI terminal with agent credits",
+    amp: "Remote orbs + linked ChatGPT/Grok",
   };
 
   function escapeHtml(str) {

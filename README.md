@@ -23,7 +23,7 @@ Scouty puts them in one place so you can **browse**, **filter**, and **compare**
 | Filters for IDE, free, China, agents, and more | Affiliate lock-in (informational only) |
 | Official links out to vendors | Advice to buy a specific plan |
 
-Pricing snapshot: **July 2026**. Always confirm on the provider’s official page.
+Pricing snapshot: **August 2026**. Always confirm on the provider’s official page.
 
 ---
 
@@ -56,6 +56,9 @@ Pricing snapshot: **July 2026**. Always confirm on the provider’s official pag
 | BytePlus Coding Plan | ByteDance · Global |
 | Meituan LongCat | Meituan |
 | Sakana Fugu Plan | Sakana AI |
+| iFlytek Astron Coding Plan | iFlytek · 讯飞星辰 |
+| Baidu Qianfan Token Plan | Baidu · 千帆 |
+| Tencent Cloud Token Plan | Tencent Cloud · TokenHub |
 
 ### Frontier labs
 
@@ -63,7 +66,7 @@ Claude · Google AI · OpenAI ChatGPT / Codex · xAI SuperGrok
 
 ### IDE suites & agents
 
-Cursor · GitHub Copilot · Windsurf · Trae · Qoder · Amazon Kiro · Verdent · Devin · Freebuff · Ollama Cloud
+Cursor · GitHub Copilot · Windsurf · Trae · Qoder · Amazon Kiro · Verdent · Devin · Freebuff · Ollama Cloud · Zed · Factory Droid · Warp · Amp · Huawei CodeArts
 
 ### Credit / pass marketplaces
 
